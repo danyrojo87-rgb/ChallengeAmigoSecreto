@@ -1,1 +1,1 @@
-Estado del proyecto: En construccion
+Estado del proyecto: En construcción
