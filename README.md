@@ -29,8 +29,7 @@ Es perfecto para:
 5. (Opcional) Abre la consola del navegador para ver la lista en tiempo real.
 
 ## Dónde encontrar ayuda
-- Si tienes dudas de cómo funciona el código, revisa los comentarios dentro de `app.js`.  
-- Puedes preguntar directamente en la sección de **Issues** de este repositorio.  
+- Si tienes dudas de cómo funciona el código, revisa los comentarios dentro de `app.js`.    
 
 ## Autor
 Este proyecto fue creado con mucho cariño y dedicación como parte de práctica de programación.  
