@@ -36,5 +36,4 @@ Es perfecto para:
 Este proyecto fue creado con mucho cariño y dedicación como parte de práctica de programación.  
 **Daniel Alfredo Muñoz Hurtado** (coloca tu GitHub o redes si quieres compartirlo).  
 
-
-💡 ¡Y eso es todo! Ahora solo queda usarlo y divertirse descubriendo quién es el próximo *amigo secreto*. 
+Ahora puedes usarlo y descubrir quién es el próximo *amigo secreto*. 
